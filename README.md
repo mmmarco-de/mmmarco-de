@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Linux
-- 📫 How to reach me [marco@mmmarco.de](mailto:marco@mmmarco.de) <!-- i.like.trains@firemail.de -->
+- 📫 How to reach me [marco@mmmarco.de](mailto:marco@mmmarco.de)
 - 😄 Pronouns: he/him
 
 
