@@ -1,12 +1,11 @@
 <!-- ![Hello](./src/github-header-image.png) -->
 ![(BANNER START) Hey! I am Marco - a random guy from germany that likes tech (BANNER END)](./src/amber/header.png)
-[![Bluesky](./src/amber/bluesky.png)](https://bsky.app/profile/mmmarco.de) [![My Blog](./src/amber/blog.png)](https://blog.mmmarco.de/) [![Email me](./src/amber/email_me.png)](mailto:marco@mmmarco.de)
+
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Linux
 - 📫 How to reach me [marco@mmmarco.de](mailto:marco@mmmarco.de)
 - 😄 Pronouns: he/him
-
 
 ### [mmmarco.de](https://mmmarco.de/)
 <!---
