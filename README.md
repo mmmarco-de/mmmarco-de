@@ -1,4 +1,5 @@
-![Hello](./src/github-header-image.png)
+<!-- ![Hello](./src/github-header-image.png) -->
+![(BANNER START) Hey! I am Marco - a random guy from germany that likes tech (BANNER END)](./src/header_image_v2.png)
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Linux
