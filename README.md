@@ -1,5 +1,5 @@
 <!-- ![Hello](./src/github-header-image.png) -->
-![(BANNER START) Marco Logo (BANNER END)](./src/IMG_4168.png)
+![mmmarco.de](./banner.png)
 
 
 - 👀 I’m interested in programming
