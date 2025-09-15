@@ -1,6 +1,7 @@
 <!-- ![Hello](./src/github-header-image.png) -->
-![mmmarco.de](./banner.png)
+![mmmarco.de](./banner.jpeg)
 
+<small>If you think the banner is not loading, no, my banner is gray. Nothing special.</small>
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Linux
