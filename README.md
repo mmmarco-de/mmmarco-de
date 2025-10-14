@@ -5,9 +5,11 @@
 
 - 👀 I’m interested in coding, tech and linux.
 - 🌱 I’m currently learning nothing.
-<!--- 📫 How to reach me [removed](mailto:)-->
 - 😄 Pronouns: he/him
 
+[Bluesky](https://bsky.app/profile/mmmarco-de.bsky.social) &middot; [GitHub](https://github.com/mmmarco-de)
+
+<!--- 📫 How to reach me [removed](mailto:)-->
 <!--### [mmmarco.de](https://mmmarco.de/)-->
 <!---
 i-like-trains-de/i-like-trains-de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
